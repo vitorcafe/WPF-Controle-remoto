@@ -1,4 +1,3 @@
-//WPF-Controle-remoto
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +10,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-//using System.Windows.Controls.Button;
 using System.Windows.Shapes;
-
 using UsbUirt;
 using System.Threading;
 using System.IO.Ports;
@@ -27,6 +24,8 @@ namespace WPF_RemoteControl_with_USBUIRT
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    
+    
     public partial class MainWindow : Window
     {
 
